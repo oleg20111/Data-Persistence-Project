@@ -1,0 +1,8 @@
+﻿Data-Persistence-Project.sln
+Assembly-CSharp.csproj
+.vscode
+Library
+Logs
+Temp
+UserSettings
+.DS_Store
